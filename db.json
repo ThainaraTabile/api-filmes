@@ -185,7 +185,7 @@
       "rating": 4.9
     },
     {
-      "title": "Up",
+    
       "title": "Up Altas Aventuras",
       "description": "Um vendedor de balões chamado Carl embarca em uma aventura épica depois de amarrar milhares de balões à sua casa e voar para a América do Sul. Ele logo descobre que um jovem escoteiro chamado Russell acidentalmente veio com ele.",
       "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/images/up.webp",
@@ -210,8 +210,6 @@
       "rating": 4.8
     },
     {
-      "title": "Zootopia",
-      "description": "Uma coelha chamada Judy Hopps se torna a primeira oficial coelho em uma cidade habitada por animais de todas as espécies. Ela se junta a uma raposa astuta chamada Nick Wilde para desvendar um mistério em Zootopia.",
       "title": "Zootopia: Essa Cidade é o Bicho",
       "description": "Quando Judy consegue alcançar o seu objetivo de se tornar uma policial, ela é designada para a sua primeira e grande missão, que é encontrar um animal perdido.",
       "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/images/zootopia.webp",
