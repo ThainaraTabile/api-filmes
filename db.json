@@ -161,9 +161,10 @@
       "rating": 2.4
     },
     {
+
       "title": "Toy Story" ,
       "description":  "Um cowboy de brinquedo chamado Woody é ameaçado pela chegada de um astronauta de brinquedo, Buzz Lightyear, que se torna o novo brinquedo favorito do dono de Woody.",
-      "image":  "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/image/toystore.webp",
+      "image":  "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/images/toystore.webp",
       "duration": "1h 21min",
       "genre": " Animação",
       "rating": 4.7
@@ -171,15 +172,17 @@
     {
       "title": "Procurando Nemo",
       "description": "Um peixe-palhaço chamado Marlin embarca em uma jornada perigosa pelo oceano para encontrar seu filho Nemo, que foi capturado por um mergulhador.",
-      "image":  "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/image/procurandoNemo.webp",
-      "duration": "1h 40min",
+   "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/images/procurandoNemo.webp",
+  "duration": "1h 40min",
       "genre": "Animação",
       "rating": 4.1
     },
     {
       "title": "O Rei Leão",
       "description": "Simba, um jovem leão destinado a se tornar rei, é injustamente exilado por seu tio malvado. Com a ajuda de novos amigos, Simba deve encontrar a coragem para retomar seu lugar de direito como rei.",
-      "image":  "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/image/reileao.webp",
+
+      "image":  "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/images/reileao.webp",
+
       "duration": "1h 28min",
       "genre": "Animação",
       "rating": 4.9
@@ -187,31 +190,39 @@
     {
       "title": "Up Altas Aventuras",
       "description": "Um vendedor de balões chamado Carl embarca em uma aventura épica depois de amarrar milhares de balões à sua casa e voar para a América do Sul. Ele logo descobre que um jovem escoteiro chamado Russell acidentalmente veio com ele.",
-      "image":  "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/image/up.webp",
+
+      "image":  "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/images/up.webp",
+
       "duration": "1h 36min",
       "genre": "Animação",
       "rating": 4.0
     },
     {
       "title": "DivertidaMente",
+
       "description":"As emoções de uma jovem chamada Riley, Alegria, Tristeza, Raiva, Nojinho e Medo, são personificadas e vivem em seu interior. Quando Riley se muda para uma nova cidade, suas emoções se esforçam para ajudá-la a se adaptar à nova vida.",
-      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/image/divertidamente.webp",
+      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/images/divertidamente.webp",
+
       "duration": "1h 35min",
       "genre": "Animação",
       "rating": 4.5
     },
     {
+
       "title":"Viva: A Vida é uma Festa",
       "description":"Um garoto chamado Miguel se aventura na Terra dos Mortos para descobrir a verdade por trás da história de sua família e sua proibição da música.",
-      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/image/vivaavida.webp",
+      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/images/vivaavida.webp",
+
       "duration": "1h 45min",
       "genre": "Animação",
       "rating": 4.8
     },
     {
+
       "title":"Zootopia: Essa Cidade é o Bicho",
       "description":"Quando Judy consegue alcançar o seu objetivo de se tornar uma policial, ela é designada para a sua primeira e grande missão, que é encontrar um animal perdido.",
-      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/image/zootopia.webp",
+      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/images/zootopia.webp",
+
       "duration": "1h 48min",
       "genre": "Animação",
       "rating": 4.3
@@ -219,23 +230,29 @@
     {
       "title": "Os Incríveis",
       "description": "Uma família de super-heróis aposentados redescobre a importância de suas habilidades especiais quando um vilão ameaça o mundo.",
-      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/image/osincriveis.webp",
+
+      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/images/osincriveis.webp",
+
       "duration": "1h 55min",
       "genre": "Animação",
       "rating": 4.1
     },
     {
+
       "title":"Frozen - UMA AVENTURA CONGELANTE",
       "description": "Uma princesa chamada Elsa tem o poder de criar gelo e neve, mas acidentalmente lança um inverno eterno em seu reino. Sua irmã, Anna, se aventura para encontrar Elsa e trazer o verão de volta ao reino.",
-      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/image/frozen.web",
+      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/images/frozen.web",
+
       "duration": "1h 42min",
       "genre": "Animação",
       "rating": 4.7
     },
     {
+
       "title":"Missão Madrinha de Casamento" ,
       "description": "Convidada para ser madrinha do casamento da melhor amiga, Annie passa a ter problemas quando começa a disputar a atenção da amiga com uma bela e rica mulher.",
-      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/image/missaomadrinha.webp",
+      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/images/missaomadrinha.webp",
+
       "duration": "2h 5min",
       "genre": "Comédia",
       "rating": 4.6
@@ -243,7 +260,9 @@
     {
       "title": "As Branquelas",
       "description": "Dois agentes do FBI se disfarçam como duas socialites brancas para desvendar um plano de sequestro, mas suas habilidades de disfarce deixam muito a desejar.",
-      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/image/branquelas.webp",
+
+      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/images/branquelas.webp",
+
       "duration": "1h 49min",
       "genre": "Comédia",
       "rating": 4.5
@@ -251,7 +270,9 @@
     {
       "title": "Debi & Lóide - Dois Idiotas em Apuros",
       "description": "Lloyd e Harry, dois amigos muito ingênuos, se envolvem em uma série de trapalhadas quando decidem devolver uma mala perdida para uma mulher que conheceram.",
-      "image":"https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/image/debiloide.webp",
+
+      "image":"https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/images/debiloide.webp",
+
       "duration": "1h 47min",
       "genre": "Comédia",
       "rating": 4.0
@@ -259,7 +280,9 @@
     {
       "title": "Se Beber, Não Case!",
       "description": "Após uma noite de despedida de solteiro em Las Vegas, três amigos acordam sem se lembrar de nada e descobrem que perderam o noivo. Eles embarcam em uma busca frenética para encontrá-lo antes do casamento.",
-      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/image/sebebernaocase.webp",
+
+      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/images/sebebernaocase.webp",
+
       "duration": "1h 40min",
       "genre": "Comédia",
       "rating": 4.7
@@ -267,7 +290,9 @@
     {
       "title": "American Pie - A Primeira Vez é Inesquecível",
       "description": "Quatro amigos do ensino médio fazem um pacto para perderem a virgindade até a formatura. Ao longo do caminho, eles enfrentam situações hilariantes e descobrem o valor da amizade.",
-      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/image/americanpie.webp",
+
+      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/images/americanpie.webp",
+
       "duration": "1h 35min",
       "genre": "Comédia",
       "rating": 4.1
@@ -275,7 +300,9 @@
     {
       "title": "O Professor Aloprado",
       "description": " O filme conta a história do Professor Sherman Klump, um cientista tímido e acima do peso, que cria uma fórmula para emagrecimento. Ao testá-la em si mesmo, ele se transforma em Buddy Love, um charmoso e confiante mulherengo. Enquanto tenta lidar com as consequências de sua personalidade dividida, o Professor Sherman embarca em uma jornada de autodescoberta e aceitação.",
-      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/image/profaloprado.webp",
+
+      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/images/profaloprado.webp",
+
       "duration": "1h 35min",
       "genre": "Comédia",
       "rating": 4.0
@@ -283,7 +310,9 @@
     {
       "title": "Curtindo a Vida Adoidado",
       "description": "Ferris Bueller, um estudante esperto e carismático, decide tirar um dia de folga da escola e se envolve em uma série de aventuras enquanto tenta evitar ser descoberto.",
-      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/image/curtindoavida.webp",
+
+      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/images/curtindoavida.webp",
+
       "duration": " 1h 43min",
       "genre": "Comédia",
       "rating": 4.3
@@ -291,15 +320,19 @@
     {
       "title": "Loucademia de Polícia",
       "description": "Uma turma de cadetes excêntricos entra para a Academia de Polícia e se envolve em uma série de situações cômicas durante seu treinamento para se tornarem policiais.",
-      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/image/loucademiapolicia.webp",
+
+      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/images/loucademiapolicia.webp",
+
       "duration": "1h 36min",
       "genre": "Comédia",
       "rating": 4.4
     },
     {
+
       "title":"O Pestinha" ,
       "description":"Junior é um garoto adotado que causa problemas onde quer que vá, deixando um rastro de destruição por onde passa e testando a paciência de seus pais adotivos.",
-      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/image/opestinha.webp",
+      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/images/opestinha.webp",
+
       "duration": "1h 21min",
       "genre": "Comédia",
       "rating": 4.5
@@ -307,7 +340,9 @@
     {
       "title": "O Máskara",
       "description": "Stanley Ipkiss, um homem comum, encontra uma máscara misteriosa que lhe confere poderes sobrenaturais e o transforma em um super-herói divertido e travesso.",
-      "image":"https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/image/maskara.webp",
+
+      "image":"https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/images/maskara.webp",
+
       "duration": " 1h 41min",
       "genre": "Comédia",
       "rating": 4.9
