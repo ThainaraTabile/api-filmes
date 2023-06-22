@@ -3,7 +3,7 @@
     {
       "title": "Royalteen: Princesa Margrethe",
       "description": "Após o escândalo no baile de formatura, a princesa Margrethe só quer levar uma vida normal. Mas, por trás da imagem de perfeição, ela lida com problemas familiares.",
-      "image": "image_url_1",
+      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/images/",
       "duration": "1h 38min",
       "genre": "Drama",
       "rating": 4.5
@@ -11,7 +11,7 @@
     {
       "title": "Destemida",
       "description": "Uma obstinada adolescente australiana enfrenta seus medos e corre atrás do sonho de se tornar a pessoa mais jovem a velejar ao redor do mundo sozinha.",
-      "image": "image_url_1",
+      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/images/destemida.webp",
       "duration": "1h 49min",
       "genre": "Drama",
       "rating": 3.2
@@ -19,7 +19,7 @@
     {
       "title": "A Baleia",
       "description": "Homem obeso e solitário busca se reconectar com filha adolescente em uma última chance de redenção.",
-      "image": "image_url_1",
+      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/images/abaleia.webp",
       "duration": "1h 57min",
       "genre": "Drama",
       "rating": 4.0
@@ -27,7 +27,7 @@
     {
       "title": "A Vida Depois",
       "description": "A estudante do Ensino Médio Vada tem que lidar com as consequências emocionais de uma tragédia escolar. Enquanto se reinventa, ela também reavalia seus relacionamentos.",
-      "image": "image_url_1",
+      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/images/avidadepois.webp",
       "duration": "1h 32min",
       "genre": "Drama",
       "rating": 3.3
@@ -35,7 +35,7 @@
     {
       "title": "Um Lugar Bem Longe Daqui",
       "description": "Abandonada quando menina, Kya cresceu nos perigosos pântanos da Carolina do Norte. Quando um garoto da cidade é encontrado morto, Kya imediatamente se torna a principal suspeita. À medida que o caso se desenrola, o veredicto torna-se mais obscuro.",
-      "image": "image_url_1",
+      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/images/um-lugar-bem-long.webp",
       "duration": "1h 5min",
       "genre": "Drama",
       "rating": 4.9
@@ -43,7 +43,7 @@
     {
       "title": "A Mulher Rei",
       "description": "Em 1800, o general Nanisca treina um grupo de mulheres guerreiras para proteger o reino africano de Dahomey de um inimigo estrangeiro.",
-      "image": "image_url_1",
+      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/images/mulher-rei-poster.webp",
       "duration": "2h 15min",
       "genre": "Drama",
       "rating": 4.8
@@ -51,7 +51,7 @@
     {
       "title": "Fome de Sucesso",
       "description": "Uma jovem cozinheira sai de um restaurante simples para trabalhar com um chef famoso e exigente. Ela entra para o mundo da alta gastronomia, mas os métodos sádicos de seu novo líder a levam ao seu limite.",
-      "image": "image_url_1",
+      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/images/fome-de-sucesso.webp",
       "duration": "2h 25min",
       "genre": "Drama",
       "rating": 4.5
@@ -59,7 +59,7 @@
     {
       "title": "Parasita",
       "description": "Toda a família de Ki-taek está desempregada, vivendo em um porão sujo e apertado. Por obra do acaso, ele começa a dar aulas de inglês para uma garota de família rica. Fascinados com a vida luxuosa destas pessoas, pai, mãe e filhos bolam um plano para se infiltrar também na abastada família, um a um. No entanto, os segredos e mentiras necessários à ascensão social cobram o seu preço.",
-      "image": "image_url_1",
+      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/images/parasita.webp",
       "duration": "2h 12min",
       "genre": "Drama",
       "rating": 5.0
@@ -67,7 +67,7 @@
     {
       "title": "O Menino Que Descobriu o Vento",
       "description": "Sempre esforçando-se para adquirir conhecimentos diversificados, um jovem de Malawi se cansa de assistir todos os colegas de seu vilarejo passando por dificuldades e começa a desenvolver uma inovadora turbina de vento.",
-      "image": "image_url_1",
+      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/images/menino-vento.webp",
       "duration": "1h 53min",
       "genre": "Drama",
       "rating": 4.4
@@ -75,7 +75,7 @@
     {
       "title": "Dois Corações",
       "description": "Um jovem universitário se apaixona perdidamente por uma colega de classe. Em outro lugar, um exilado cubano e uma comissária de bordo encontram o amor.",
-      "image": "image_url_1",
+      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/images/2-coracoes.webp",
       "duration": "1h 40min",
       "genre": "Drama",
       "rating": 2.8
@@ -83,7 +83,7 @@
     {
       "title": "Tudo em Todo o Lugar ao Mesmo Tempo",
       "description": "Uma ruptura interdimensional bagunça a realidade e uma inesperada heroína precisa usar seus novos poderes para lutar contra os perigos bizarros do multiverso.",
-      "image": "image_url_1",
+      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/images/todo-lugar.webp",
       "duration": "2h 19min",
       "genre": "Ficção Científica",
       "rating": 3.3
@@ -91,7 +91,7 @@
     {
       "title": "Oxigênio",
       "description": "Presa em uma câmera criogênica, Liz precisa descobrir sua identidade antes que o oxigênio acabe.",
-      "image": "image_url_1",
+      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/images/oxigenio.webp",
       "duration": "1h 41min",
       "genre": "Ficção Científica",
       "rating": 3.7
@@ -99,7 +99,7 @@
     {
       "title": "O Projeto Adam",
       "description": "Adam embarca em uma missão secreta que o faz ser levado para o seu passado. Para salvar o mundo, terá que encontrar si mesmo de 13 anos para achar o pai dos dois e concertar as coisas.",
-      "image": "image_url_1",
+      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/images/o-projeto-adam-2.webp",
       "duration": "1h 46min",
       "genre": "Ficção Científica",
       "rating": 4.0
@@ -107,7 +107,7 @@
     {
       "title": "Synchronic",
       "description": "Os paramédicos Steve e Dennis, de Nova Orleans, são chamados para socorrer vítimas de uma série de acidentes horríveis, eles logo descobrem a existência de uma nova droga, capaz de alterar a realidade.",
-      "image": "image_url_1",
+      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/images/synchronic.webp",
       "duration": "1h 42min",
       "genre": "Ficção Científica",
       "rating": 2.5
@@ -115,7 +115,7 @@
     {
       "title": "65: AMEAÇA PRÉ-HISTORICA",
       "description": "Após um acidente catastrófico em um planeta desconhecido, o piloto Mills descobre que, na verdade, está preso na Terra 65 milhões de anos atrás. Agora, com apenas uma chance de resgate, Mills e a única outra sobrevivente, Koa, enfrentam criaturas.",
-      "image": "image_url_1",
+      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/images/",
       "duration": "1h 30min",
       "genre": "Ficção Científica",
       "rating": 2.8
@@ -123,7 +123,7 @@
     {
       "title": "Um Lugar Silencioso",
       "description": "Em uma fazenda nos Estados Unidos, uma família do Meio-Oeste é perseguida por uma entidade fantasmagórica assustadora. Para se protegerem, eles devem permanecer em silêncio absoluto, a qualquer custo, pois o perigo é ativado pela percepção do som.",
-      "image": "image_url_1",
+      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/images/",
       "duration": "1h 30min",
       "genre": "Ficção Científica",
       "rating": 4.3
@@ -131,7 +131,7 @@
     {
       "title": "Não! Não Olhe!",
       "description": "Os cuidadores de um rancho de cavalos na Califórnia encontram uma força misteriosa que afeta o comportamento humano e animal.",
-      "image": "image_url_1",
+      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/images/nao-nao-olhe-.webp",
       "duration": "2h 10min",
       "genre": "Ficção Científica",
       "rating": 3.1
@@ -139,7 +139,7 @@
     {
       "title": "Infinito",
       "description": "Evan McCauley tem sua vida diária assombrada por habilidades que nunca aprendeu e memórias de lugares que nunca visitou. Automedicado e à beira de um ataque de nervos, Evan é contatado pelos 'Infinitos', um grupo secreto que revela a ele que suas memórias podem ser reais, porém vindas de múltiplas vidas passadas.",
-      "image": "image_url_1",
+      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/images/",
       "duration": "1h 46min",
       "genre": "Ficção Científica",
       "rating": 4.6
@@ -147,7 +147,7 @@
     {
       "title": "Gravidade",
       "description": "Dra. Ryan Stone e o astronauta Matt Kowalsky trabalham juntos para sobreviver depois que um acidente os deixa completamente à deriva no espaço, sem ligação com a Terra e sem esperança de resgate.",
-      "image": "image_url_1",
+      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/images/gravidade.webp",
       "duration": "1h 31min",
       "genre": "Ficção Científica",
       "rating": 4.1
@@ -155,7 +155,7 @@
     {
       "title": "O Céu da Meia-Noite",
       "description": "Um cientista solitário no Ártico corre contra o tempo para impedir que um grupo de astronautas volte à Terra depois de uma catástrofe global.",
-      "image": "image_url_1",
+      "image": "https://github.com/ThainaraTabile/api-filmes/blob/main/resources/images/o-ceu-meia-noite%20(1).webp",
       "duration": "1h 57min",
       "genre": "Ficção Científica",
       "rating": 2.4
@@ -199,7 +199,7 @@
       "duration": "1h 35min",
       "genre": "Animação",
       "rating": 4.5
-    }, 
+    },
     {
       "title":"Viva: A Vida é uma Festa",
       "description":"Um garoto chamado Miguel se aventura na Terra dos Mortos para descobrir a verdade por trás da história de sua família e sua proibição da música.",
@@ -207,7 +207,7 @@
       "duration": "1h 45min",
       "genre": "Animação",
       "rating": 4.8
-    }, 
+    },
     {
       "title":"Zootopia: Essa Cidade é o Bicho",
       "description":"Quando Judy consegue alcançar o seu objetivo de se tornar uma policial, ela é designada para a sua primeira e grande missão, que é encontrar um animal perdido.",
@@ -215,15 +215,15 @@
       "duration": "1h 48min",
       "genre": "Animação",
       "rating": 4.3
-    }, 
+    },
     {
-      "title":"Os Incríveis",
+      "title": "Os Incríveis",
       "description": "Uma família de super-heróis aposentados redescobre a importância de suas habilidades especiais quando um vilão ameaça o mundo.",
       "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/image/osincriveis.webp",
       "duration": "1h 55min",
       "genre": "Animação",
       "rating": 4.1
-    }, 
+    },
     {
       "title":"Frozen - UMA AVENTURA CONGELANTE",
       "description": "Uma princesa chamada Elsa tem o poder de criar gelo e neve, mas acidentalmente lança um inverno eterno em seu reino. Sua irmã, Anna, se aventura para encontrar Elsa e trazer o verão de volta ao reino.",
@@ -231,7 +231,7 @@
       "duration": "1h 42min",
       "genre": "Animação",
       "rating": 4.7
-    }, 
+    },
     {
       "title":"Missão Madrinha de Casamento" ,
       "description": "Convidada para ser madrinha do casamento da melhor amiga, Annie passa a ter problemas quando começa a disputar a atenção da amiga com uma bela e rica mulher.",
@@ -239,63 +239,63 @@
       "duration": "2h 5min",
       "genre": "Comédia",
       "rating": 4.6
-    }, 
+    },
     {
-      "title":"As Branquelas" ,
+      "title": "As Branquelas",
       "description": "Dois agentes do FBI se disfarçam como duas socialites brancas para desvendar um plano de sequestro, mas suas habilidades de disfarce deixam muito a desejar.",
       "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/image/branquelas.webp",
       "duration": "1h 49min",
       "genre": "Comédia",
       "rating": 4.5
-    }, 
+    },
     {
-      "title":"Debi & Lóide - Dois Idiotas em Apuros" ,
+      "title": "Debi & Lóide - Dois Idiotas em Apuros",
       "description": "Lloyd e Harry, dois amigos muito ingênuos, se envolvem em uma série de trapalhadas quando decidem devolver uma mala perdida para uma mulher que conheceram.",
       "image":"https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/image/debiloide.webp",
       "duration": "1h 47min",
       "genre": "Comédia",
       "rating": 4.0
-    }, 
+    },
     {
-      "title":"Se Beber, Não Case!" ,
+      "title": "Se Beber, Não Case!",
       "description": "Após uma noite de despedida de solteiro em Las Vegas, três amigos acordam sem se lembrar de nada e descobrem que perderam o noivo. Eles embarcam em uma busca frenética para encontrá-lo antes do casamento.",
       "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/image/sebebernaocase.webp",
       "duration": "1h 40min",
       "genre": "Comédia",
       "rating": 4.7
-    }, 
+    },
     {
-      "title": "American Pie - A Primeira Vez é Inesquecível" ,
+      "title": "American Pie - A Primeira Vez é Inesquecível",
       "description": "Quatro amigos do ensino médio fazem um pacto para perderem a virgindade até a formatura. Ao longo do caminho, eles enfrentam situações hilariantes e descobrem o valor da amizade.",
       "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/image/americanpie.webp",
       "duration": "1h 35min",
       "genre": "Comédia",
       "rating": 4.1
-    }, 
+    },
     {
-      "title":"O Professor Aloprado",
+      "title": "O Professor Aloprado",
       "description": " O filme conta a história do Professor Sherman Klump, um cientista tímido e acima do peso, que cria uma fórmula para emagrecimento. Ao testá-la em si mesmo, ele se transforma em Buddy Love, um charmoso e confiante mulherengo. Enquanto tenta lidar com as consequências de sua personalidade dividida, o Professor Sherman embarca em uma jornada de autodescoberta e aceitação.",
       "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/image/profaloprado.webp",
       "duration": "1h 35min",
       "genre": "Comédia",
       "rating": 4.0
-    }, 
+    },
     {
-      "title":"Curtindo a Vida Adoidado",
+      "title": "Curtindo a Vida Adoidado",
       "description": "Ferris Bueller, um estudante esperto e carismático, decide tirar um dia de folga da escola e se envolve em uma série de aventuras enquanto tenta evitar ser descoberto.",
       "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/image/curtindoavida.webp",
       "duration": " 1h 43min",
       "genre": "Comédia",
       "rating": 4.3
-    }, 
+    },
     {
-      "title":"Loucademia de Polícia",
+      "title": "Loucademia de Polícia",
       "description": "Uma turma de cadetes excêntricos entra para a Academia de Polícia e se envolve em uma série de situações cômicas durante seu treinamento para se tornarem policiais.",
       "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/image/loucademiapolicia.webp",
       "duration": "1h 36min",
       "genre": "Comédia",
       "rating": 4.4
-    }, 
+    },
     {
       "title":"O Pestinha" ,
       "description":"Junior é um garoto adotado que causa problemas onde quer que vá, deixando um rastro de destruição por onde passa e testando a paciência de seus pais adotivos.",
@@ -303,15 +303,14 @@
       "duration": "1h 21min",
       "genre": "Comédia",
       "rating": 4.5
-    }, 
+    },
     {
-      "title":"O Máskara",
+      "title": "O Máskara",
       "description": "Stanley Ipkiss, um homem comum, encontra uma máscara misteriosa que lhe confere poderes sobrenaturais e o transforma em um super-herói divertido e travesso.",
       "image":"https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/image/maskara.webp",
       "duration": " 1h 41min",
       "genre": "Comédia",
       "rating": 4.9
     }
-
   ]
 }
