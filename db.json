@@ -155,7 +155,7 @@
     {
       "title": "O Céu da Meia-Noite",
       "description": "Um cientista solitário no Ártico corre contra o tempo para impedir que um grupo de astronautas volte à Terra depois de uma catástrofe global.",
-      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/blob/main/resources/images/o-ceu-meia-noite.webp",
+      "image": "https://raw.githubusercontent.com/ThainaraTabile/api-filmes/main/resources/images/o-ceu-meia-noite.webp",
       "duration": "1h 57min",
       "genre": "Ficção Científica",
       "rating": 2.4
