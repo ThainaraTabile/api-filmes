@@ -1,13 +1,13 @@
 {
-  "name": "burger-queen-api-mock",
+  "name": "movie-challenge-api-mock",
   "version": "1.0.0",
-  "description": "A mock of Burger Queen API",
+  "description": "A mock of Movie Challenge",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node api/server.js"
   },
-  "author": "Sergio Sinuco <ssinuco@gmail.com>",
+  "author": "Thainara Tabile <thainara.tabilebenevides@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "json-server": "^0.17.0",
